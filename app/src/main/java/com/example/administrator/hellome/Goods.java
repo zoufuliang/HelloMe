@@ -5,4 +5,5 @@ package com.example.administrator.hellome;
  */
 
 public class Goods {
+    int i= 0;
 }
