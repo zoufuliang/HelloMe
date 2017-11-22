@@ -13,5 +13,4 @@ public class Goods {
    private int i= 0;
    private int b=1;
 
-
 }
