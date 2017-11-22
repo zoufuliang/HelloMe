@@ -10,8 +10,9 @@ public class Goods {
      //中文输入法
    }
 
-     //dikdjgg
+     //新增数据的时候
      private int i= 0;
      private int b=1;
      private int c=1;
+     private int  d=1;
 }
