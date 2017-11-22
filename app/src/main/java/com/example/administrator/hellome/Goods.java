@@ -10,7 +10,7 @@ public class Goods {
      //中文输入法
    }
 
-     //新增数据的时候
+     //新增数据的时候s
      private int i= 0;
      private int b=1;
      private int c=1;
