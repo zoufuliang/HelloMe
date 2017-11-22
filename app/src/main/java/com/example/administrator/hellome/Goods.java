@@ -10,7 +10,7 @@ public class Goods {
      //中文输入法
    }
   //dikdjg
-   private int i= 0;
-   private int b=1;
-    private int c=1;
+     private int i= 0;
+     private int b=1;
+     private int c=1;
 }
