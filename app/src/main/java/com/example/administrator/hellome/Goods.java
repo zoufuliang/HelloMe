@@ -5,6 +5,13 @@ package com.example.administrator.hellome;
  */
 
 public class Goods {
+
+   private void initData() {
+     //中文输入法
+   }
+
    private int i= 0;
    private int b=1;
+
+
 }
