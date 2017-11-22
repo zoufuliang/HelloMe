@@ -9,7 +9,7 @@ public class Goods {
    private void initData() {
      //中文输入法
    }
-
+  //dikdjg
    private int i= 0;
    private int b=1;
 
