@@ -12,5 +12,5 @@ public class Goods {
   //dikdjg
    private int i= 0;
    private int b=1;
-
+    private int c=1;
 }
